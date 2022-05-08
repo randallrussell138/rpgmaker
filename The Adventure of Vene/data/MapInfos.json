@@ -6,10 +6,11 @@ null,
 {"id":4,"expanded":true,"name":"Start House","order":4,"parentId":3,"scrollX":811,"scrollY":466.5},
 {"id":5,"expanded":false,"name":"Inn 1F","order":5,"parentId":3,"scrollX":619,"scrollY":467},
 {"id":6,"expanded":false,"name":"Inn 2F","order":6,"parentId":5,"scrollX":0,"scrollY":0},
-{"id":7,"expanded":false,"name":"Castle","order":10,"parentId":2,"scrollX":985.1999999999999,"scrollY":1567.8},
-{"id":8,"expanded":false,"name":"Customs Station 1","order":11,"parentId":2,"scrollX":973.1999999999999,"scrollY":550.1999999999999},
-{"id":9,"expanded":false,"name":"Fishing Village 1","order":12,"parentId":2,"scrollX":973.1999999999999,"scrollY":559.8},
+{"id":7,"expanded":false,"name":"Castle","order":11,"parentId":2,"scrollX":985.1999999999999,"scrollY":1567.8},
+{"id":8,"expanded":false,"name":"Customs Station 1","order":12,"parentId":2,"scrollX":973.1999999999999,"scrollY":550.1999999999999},
+{"id":9,"expanded":false,"name":"Fishing Village 1","order":13,"parentId":2,"scrollX":973.1999999999999,"scrollY":559.8},
 {"id":10,"expanded":false,"name":"Opening Cut Scene","order":1,"parentId":0,"scrollX":619,"scrollY":349},
 {"id":11,"expanded":false,"name":"Matt House","order":8,"parentId":3,"scrollX":619,"scrollY":411},
-{"id":12,"expanded":false,"name":"Armor Shop","order":9,"parentId":3,"scrollX":0,"scrollY":0}
+{"id":12,"expanded":false,"name":"Armor Shop","order":9,"parentId":3,"scrollX":0,"scrollY":0},
+{"id":13,"expanded":false,"name":"Bar","order":10,"parentId":3,"scrollX":0,"scrollY":0}
 ]
